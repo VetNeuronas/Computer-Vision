@@ -1,5 +1,12 @@
 # Proyecto 6: Computer Vision
 
-*Escribe aquí una breve descripción de tu proyecto*
+Smart Home con Reconocimiento Facial
+ Descripción
 
-*Escribe un instructivo de cómo podemos utilizar tu software (incluye instrucciones para crear entorno virtual)*
+Este proyecto implementa un sistema de hogar inteligente que utiliza visión por computadora para:
+
+Reconocer usuarios mediante su rostro
+Detectar emociones
+Ajustar el entorno automáticamente
+
+Funcioan con python 3.10
