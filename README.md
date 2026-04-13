@@ -9,4 +9,4 @@ Reconocer usuarios mediante su rostro
 Detectar emociones
 Ajustar el entorno automáticamente
 
-Funcioan con python 3.10
+Funciona con python 3.10
